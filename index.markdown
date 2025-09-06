@@ -7,7 +7,7 @@
 
 The 16th International Workshop on Rewriting Logic and its
 Applications, a satellite event of ETAPS 2026, is to be held on April
-11-12 2026 in Turin, Italy.
+11-12 2026 in Torino, Italy.
 
 Rewriting is a natural model of computation and an expressive semantic
 framework for concurrency, parallelism, communication, and
