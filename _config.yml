@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:             16th International Workshop on Rewriting Logic and its Applications
+title:             WRLA 2026  
+subtitle:          16th International Workshop on Rewriting Logic and its Applications
 email:             wrla2026@javerianacali.edu.co
 description:       A satellite event of ETAPS 2026
 baseurl:           ""
