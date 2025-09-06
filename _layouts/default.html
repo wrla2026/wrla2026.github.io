@@ -16,6 +16,13 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
+<table align="center">
+  <tr>
+   {% for item in site.data.menus.menu %}
+   <th><a href="{{ item.url }}"  style="color:White;">{{ item.title }}</a></th><th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+   {% endfor %}
+  </tr>
+</table>
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-longname">{{ page.subtitle | default: site.subtitle | default: site.github.repository_name }}</h2>
       <h2 class="project-longname">{{ page.venue | default: site.venue | default: site.github.repository_name }}</h2>

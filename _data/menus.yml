@@ -1,4 +1,25 @@
-header:
-  - url: /index
-    title: Home
-    identifier: index
+menu:
+
+- title: Home
+  identifier: home
+  url: /index.html
+
+- title: Call for Papers
+  identifier: cfp
+  url: /cfp.html
+
+- title: Program
+  identifier: program
+  url: /program.html
+
+- title: Committee
+  identifier: committee
+  url: /committee.html
+
+- title: Previous Events
+  identifier: previous
+  url: /previous.html
+
+- title: ETAPS 2026
+  identifier: etaps
+  url: https://etaps.org/2026/
