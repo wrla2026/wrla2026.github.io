@@ -141,6 +141,25 @@ a {
   }
 }
 
+.project-longname {
+  margin-top: 0;
+  margin-bottom: 0.1rem;
+  font-weight: normal;
+  opacity: 1.0;
+
+  @include large {
+    font-size: 2.25rem;
+  }
+
+  @include medium {
+    font-size: 1.25rem;
+  }
+
+  @include small {
+    font-size: 1rem;
+  }
+}
+
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
