@@ -68,46 +68,43 @@ formal verification, etc. with Maude, Elan, CafeOBJ, etc. are taught</li>
 <p>The program of the workshop will include regular papers, tool papers, education papers, and
 work-in-progress presentations. </p>
 
-<ul>
-<li> Regular papers must contain original contributions, be clearly written,
-include appropriate references, and comparison with related work.
-</li>
 
-<li> Tool papers have to present a new tool, a new tool component, or novel
-extensions to an existing tool. They should provide a short description
-of the theoretical foundations with relevant citations, emphasize the
-design and implementation, and give a clear account of the tool's
-functionality. The described tools may be made available via the web.
-</li>
+<ol> <li> <b>Regular papers</b> must contain original contributions,
+be clearly written, include appropriate references, and comparison
+with related work.  </li>
 
-<li> Some of us have courses in which Maude, Elan, CafeOBJ, etc. are taught
-or used to teach formal methods, etc. We have not known what related
-courses are delivered, what examples are used in such courses, etc.
-Thus, the workshop is a time to share some ideas, tips, etc. for
-teaching Maude, Elan, and CafeOBJ. Education papers could contain how
-to design a course in which formal methods, etc. are taught with
-Maude, Elan, CafeOBJ, etc., what examples are used in such courses, etc.
-</li>
+<li> <b>Tool papers</b> have to present a new tool, a new tool
+component, or novel extensions to an existing tool. They should
+provide a short description of the theoretical foundations with
+relevant citations, emphasize the design and implementation, and give
+a clear account of the tool's functionality. The described tools may
+be made available online.  </li>
 
-<li>
-Work-in-progress papers present early-stage work or other types of
-innovative or thought-provoking work related to the topics of the
-workshop. The difference between work-in-progress and regular papers is
-that work-in-progress submissions represent work that has not reached
-yet a level of completion that would warrant the full refereed selection
-process.
-</li>
-</ol>
+<li> <b>Education papers</b> could contain how to design a course in
+which formal methods are taught with the help of, e.g., Maude, Elan,
+and CafeOBJ, and what examples are used in such courses.  The workshop
+is also a great space to share ideas and tips on teaching Maude, Elan,
+and CafeOBJ, and other rewriting logic related tools. </li>
+
+<li> <b>Work-in-progress papers</b> present early-stage work or other
+types of innovative or thought-provoking work related to the topics of
+the workshop. The difference between work-in-progress and regular
+papers is that work-in-progress submissions represent work that has
+not reached yet a level of completion for a full refereed selection
+process.  </li> </ol>
 
 <p>
 All submissions should be formatted according to the guidelines for
 Springer LNCS papers, and should not exceed 16 pages (for regular papers), 10 pages (for tool and education papers), 
 and 8 pages (for work-in-progress presentations) excluding bibliography. 
+
 Please carefully read Information for <a target="_blank" href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">
 Authors of Springer Computer Science Proceedings when preparing your papers.</a>
+<!--
 Note that the <a target="_blank" href="https://orcid.org/">ORCID</a> of each author should be included in your papers.
+-->
 Submissions must be uploaded to the following EasyChair website: 
-<a href="https://easychair.org/conferences/?conf=wrla2024" target="_blank">https://easychair.org/conferences/?conf=wrla2024</a>.</p>
+<a href="https://easychair.org/conferences/?conf=wrla2026" target="_blank">https://easychair.org/conferences/?conf=wrla2026</a>.</p>
 <ul>
 <li>Paper submission due: January 16, 2026 (AoE)</li>
 <li>Notification: February 27, 2026</li>
