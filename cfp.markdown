@@ -110,3 +110,17 @@ Submissions must be uploaded to the following EasyChair website:
 <li>Notification: February 27, 2026</li>
 <li>Camera-ready for informal pre-proceseedings: March 13, 2026 (AoE)</li>
 </ul>
+
+<hr>
+
+<h3 id="paper-submission">Publication</h3>
+
+<p>All accepted papers will be presented at the workshop and included
+   in the pre-proceedings, which will be available during the
+   workshop.  Following the tradition of the last editions, regular,
+   tool, and invited papers will be published as a volume in
+   Springer's Lecture Notes in Computer Science (LNCS) series to be
+   distributed after the workshop.</p>
+
+
+
