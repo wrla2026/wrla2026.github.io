@@ -64,7 +64,7 @@ formal verification, etc. with Maude, Elan, CafeOBJ, etc. are taught</li>
 
 <hr>
 
-<h3 id="paper-submission">Paper submission</h3>
+<h3 id="paper-submission">Paper Submission</h3>
 <p>The program of the workshop will include regular papers, tool papers, education papers, and
 work-in-progress presentations. </p>
 
