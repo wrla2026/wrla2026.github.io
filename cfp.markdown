@@ -123,4 +123,12 @@ Submissions must be uploaded to the following EasyChair website:
    distributed after the workshop.</p>
 
 
+<h3 id="paper-submission">Special Journal Issue</h3>
 
+<p> In addition to the informal proceedings and the official
+post-proceedings to be published as a volume in the Lecture Notes in
+Computer Science (LNCS) series, it is likely that a selection of
+papers will be invited to submit extended versions for consideration
+in a special journal issue. These extended submissions will undergo a
+full peer-review process in accordance with the journal's standards.
+</p>
