@@ -1,0 +1,10 @@
+Kyungmin Bae <kmbae@postech.ac.kr>
+Francisco Durán <fdm@uma.es>
+Santiago Escobar <sescobar@upv.es>
+Alberto Lluch <albertolluch@gmail.com>
+Narciso Martí-Oliet <narciso@ucm.es>
+José Meseguer <meseguer.jose@gmail.com>
+Kazuhiro Ogata <ogata@jaist.ac.jp>
+Peter Ølveczky <peterol@ifi.uio.no>
+Carlos Olarte <olarte@lipn.univ-paris13.fr>
+Carolyn Talcott <carolyn.talcott@gmail.com>
