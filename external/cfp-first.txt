@@ -51,7 +51,6 @@ Rewriting Languages
 - Tools supporting rewriting languages
 
 Verification Techniques
-
 - Verification of confluence, termination, coherence, sufficient
   completeness, and related properties
 - Temporal, modal, and reachability logics for verifying dynamic
@@ -129,6 +128,6 @@ extended versions for consideration in a special journal issue. These
 extended submissions will undergo full peer review in accordance with
 the journal's standards.
 
-================================================================
+===================================================================
 We look forward to your submissions and participation in WRLA 2026!
-================================================================
+===================================================================
