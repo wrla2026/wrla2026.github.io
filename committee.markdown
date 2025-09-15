@@ -14,14 +14,27 @@ layout: default
 <li><b>Narciso Martí-Oliet</b>, Universidad Complutense de Madrid, Spain</li>
 <li><b>José Meseguer</b>, University of Illinois at Urbana-Champaign, USA</li>
 <li><b>Ugo Montanari</b>, University of Pisa, Italy</li>
-<li><b>Peter Csaba Ölveczky</b>, University of Oslo, Norway</li>
+<li><b>Peter Ölveczky</b>, University of Oslo, Norway</li>
 <li><b>Grigore Rosu</b>, University of Illinois at Urbana-Champaign, USA</li>
 <li><b>Carolyn Talcott</b>, SRI International, USA</li>
 <li><b>Martin Wirsing</b>, Ludwig Maximilians Universität München, Germany</li>
 </ul>
 
 <h3 id="program-committee">Program Committee</h3>
-TBA.
+<ul>
+<li><b>Kyungmin Bae</b>, Pohang University of Science and Technology (POSTECH), South Korea</li>
+<li><b>Francisco Durán</b>, Universidad de Málaga, Spain</li>
+<li><b>Santiago Escobar</b>, Universitat Politècnica de València, Spain</li>
+<li><b>Alberto Lluch-Lafuente</b>, Technical University of Denmark, Denmark</li>
+<li><b>Narciso Martí-Oliet</b>, Universidad Complutense de Madrid, Spain</li>
+<li><b>José Meseguer</b>, University of Illinois at Urbana-Champaign, USA</li>
+<li><b>Kazuhiro Ogata</b>, JAIST, Japan</li>
+<li><b>Carlos Olarte</b>, Université Sorbonne Paris Nord, France</li>
+<li><b>Peter Ölveczky</b>, University of Oslo, Norway</li>
+<li><b>Camilo Rocha</b>, Pontificia Universidad Javeriana, Colombia <b>[chair]</b></li>
+<li><b>Carolyn Talcott</b>, SRI International, USA</li>
+</ul>
+
 
 
 <h3 id="publicity-chair">Publicity Chair</h3>
