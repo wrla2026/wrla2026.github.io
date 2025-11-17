@@ -1,10 +1,17 @@
 Kyungmin Bae <kmbae@postech.ac.kr>
 Francisco Durán <fdm@uma.es>
 Santiago Escobar <sescobar@upv.es>
+Nao Hirokawa <hirokawa@jaist.ac.jp>
+Alexander Knapp <knapp@informatik.uni-augsburg.de>
+Temur	Kutsia <temur.kutsia@risc.jku.at>
 Alberto Lluch <albertolluch@gmail.com>
+Dorel	Lucanu <dlucanu@info.uaic.ro>
+Salvador Lucas <slucas@dsic.upv.es>
 Narciso Martí-Oliet <narciso@ucm.es>
 José Meseguer <meseguer.jose@gmail.com>
 Kazuhiro Ogata <ogata@jaist.ac.jp>
 Peter Ølveczky <peterol@ifi.uio.no>
 Carlos Olarte <olarte@lipn.univ-paris13.fr>
+Carlos Ramírez <carlosalbertoramirez@javerianacali.edu.co>
+Christophe Ringeissen <christophe.ringeissen@loria.fr>
 Carolyn Talcott <carolyn.talcott@gmail.com>

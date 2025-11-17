@@ -25,16 +25,22 @@ layout: default
 <li><b>Kyungmin Bae</b>, Pohang University of Science and Technology (POSTECH), South Korea</li>
 <li><b>Francisco Durán</b>, Universidad de Málaga, Spain</li>
 <li><b>Santiago Escobar</b>, Universitat Politècnica de València, Spain</li>
+<li><b>Nao Hirokawa</b>, JAIST, Japan</li>
+<li><b>Alexander Knapp</b>, Universität Augsburg, Germany</li>
+<li><b>Temur Kutsia</b>, RISC, Johannes Kepler University Linz, Austria</li>
 <li><b>Alberto Lluch-Lafuente</b>, Technical University of Denmark, Denmark</li>
+<li><b>Dorel Lucanu</b>, Alexandru Ioan Cuza University, Romania</li>
+<li><b>Salvador Lucas</b>, Universitat Politècnica de València, Spain</li>
 <li><b>Narciso Martí-Oliet</b>, Universidad Complutense de Madrid, Spain</li>
 <li><b>José Meseguer</b>, University of Illinois at Urbana-Champaign, USA</li>
 <li><b>Kazuhiro Ogata</b>, JAIST, Japan</li>
 <li><b>Carlos Olarte</b>, Université Sorbonne Paris Nord, France</li>
 <li><b>Peter Ölveczky</b>, University of Oslo, Norway</li>
+<li><b>Carlos Ramírez</b>, Pontificia Universidad Javeriana, Colombia</li>
+<li><b>Christophe	Ringeissen</b>, INRIA, France</li>
 <li><b>Camilo Rocha</b>, Pontificia Universidad Javeriana, Colombia <b>[chair]</b></li>
 <li><b>Carolyn Talcott</b>, SRI International, USA</li>
 </ul>
-
 
 
 <h3 id="publicity-chair">Publicity Chair</h3>
