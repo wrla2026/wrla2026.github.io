@@ -106,7 +106,7 @@ Note that the <a target="_blank" href="https://orcid.org/">ORCID</a> of each aut
 Submissions must be uploaded to the following EasyChair website: 
 <a href="https://easychair.org/conferences/?conf=wrla2026" target="_blank">https://easychair.org/conferences/?conf=wrla2026</a>.</p>
 <ul>
-<li>Paper submission due: January 16, 2026 (AoE)</li>
+<li>Paper submission due: January 31, 2026 <s>January 16, 2026</s> (AoE)</li>
 <li>Notification: February 27, 2026</li>
 <li>Camera-ready for informal pre-proceseedings: March 13, 2026 (AoE)</li>
 </ul>

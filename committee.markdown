@@ -39,6 +39,7 @@ layout: default
 <li><b>Carlos Ramírez</b>, Pontificia Universidad Javeriana, Colombia</li>
 <li><b>Christophe	Ringeissen</b>, INRIA, France</li>
 <li><b>Camilo Rocha</b>, Pontificia Universidad Javeriana, Colombia <b>[chair]</b></li>
+<li><b>Rubén Rubio</b>, Universidad Complutense de Madrid, Spain</li>
 <li><b>Carolyn Talcott</b>, SRI International, USA</li>
 </ul>
 
