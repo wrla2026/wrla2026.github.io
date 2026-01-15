@@ -1,0 +1,133 @@
+16th International Workshop on Rewriting Logic and its Applications (WRLA 2026)
+Satellite event of ETAPS 2026
+Torino, Italy – April 11–12, 2026
+https://wrla2026.github.io
+
+===============================================================================
+Third and Final Call for Papers - Extended Paper Submission Deadline 01/30/2025
+===============================================================================
+
+Rewriting is a natural model of computation and an expressive semantic
+framework for concurrency, parallelism, communication, and
+interaction. It can be used for specifying a wide range of systems and
+languages in various application domains. It also has good properties
+as a metalogical framework for representing logics. Several successful
+languages based on rewriting (ASF+SDF, CafeOBJ, ELAN, Maude) have been
+designed and implemented.
+
+The aim of WRLA is to bring together researchers with a common
+interest in rewriting and its applications, and to give them the
+opportunity to present their recent work, discuss future research
+directions, and exchange ideas.
+
+Topics of Interest
+------------------
+The topics of the workshop include, but are not limited to:
+
+Foundations
+- Foundations and models of rewriting and rewriting logic, including
+  termination, confluence, coherence, and complexity
+- Unification, generalization, narrowing, and partial evaluation
+- Constrained rewriting and symbolic algebra
+- Graph rewriting
+- Tree automata
+- Rewriting strategies
+- Rewriting-based calculi and explicit substitutions
+
+Rewriting as a Logical and Semantic Framework
+- Uses of rewriting and rewriting logic as a logical framework,
+  including deduction modulo
+- Uses of rewriting as a semantic framework for programming language
+  semantics
+- Rewriting semantics of concurrency models, distributed systems, and
+  network protocols
+- Rewriting semantics of real-time, hybrid, and probabilistic systems
+- Uses of rewriting for compilation and language transformation
+
+Rewriting Languages
+- Rewriting-based declarative languages
+- Type systems for rewriting
+- Implementation techniques
+- Tools supporting rewriting languages
+
+Verification Techniques
+- Verification of confluence, termination, coherence, sufficient
+  completeness, and related properties
+- Temporal, modal, and reachability logics for verifying dynamic
+  properties of rewrite theories
+- Explicit-state and symbolic model checking techniques for
+  verification of rewrite theories
+- Rewriting-based theorem proving, including (co)inductive theorem
+  proving
+- Rewriting-based constraint solving and satisfiability
+- Rewriting-semantics-based verification and analysis of programs
+
+Applications
+- Applications in logic, mathematics, physics, and biology
+- Rewriting models of biology, chemistry, and membrane systems
+- Security specification and verification
+- Applications to distributed, network, mobile, and cloud computing
+- Specification and verification of real-time, hybrid, probabilistic,
+  and cyber-physical systems
+- Specification and verification of critical systems
+- Applications to model-based software engineering
+- Applications to engineering and planning
+
+Education
+- How to design a course in which programming, formal specification,
+  formal verification, etc. with Maude, Elan, CafeOBJ, etc. are taught
+- Examples used in such courses
+- How to attract students for such courses
+- Any issues related to such courses
+
+Paper Submission
+----------------
+The program of the workshop will include regular papers, tool papers,
+education papers, and work-in-progress presentations.
+
+- Regular papers: must contain original contributions, be clearly
+  written, include appropriate references, and comparison with related
+  work.
+- Tool papers: must present a new tool, a new tool component, or novel
+  extensions to an existing tool. They should provide a short
+  description of the theoretical foundations with relevant citations,
+  emphasize the design and implementation, and give a clear account of
+  the tool's functionality. Tools may be made available online.
+- Education papers: may describe how to design a course in which
+  formal methods are taught with Maude, Elan, CafeOBJ, etc. The
+  workshop is a venue to share ideas and tips on teaching these tools.
+- Work-in-progress papers: present early-stage or thought-provoking
+  work. The difference from regular papers is that these submissions
+  represent work not yet complete for full refereed selection.
+
+Submission format:
+- LNCS style (Springer Computer Science Proceedings)
+- Page limits: 16 pages (regular), 10 pages (tool and education), 8
+  pages (work-in-progress), excluding bibliography
+- Submission site: https://easychair.org/conferences/?conf=wrla2026
+
+Important Dates
+---------------
+- Paper submission due: January 16, 2026 (AoE)
+- Notification: February 27, 2026
+- Camera-ready for informal pre-proceedings: March 13, 2026 (AoE)
+
+Publication
+-----------
+All accepted papers will be presented at the workshop and included in
+the pre-proceedings. Following the tradition of previous editions,
+regular, tool, and invited papers will be published as a volume in
+Springer's Lecture Notes in Computer Science (LNCS) series after the
+workshop.
+
+Special Journal Issue
+---------------------
+In addition to the informal proceedings and the official LNCS
+post-proceedings, a selection of papers will be invited to submit
+extended versions for consideration in a special journal issue. These
+extended submissions will undergo full peer review in accordance with
+the journal's standards.
+
+===================================================================
+We look forward to your submissions and participation in WRLA 2026!
+===================================================================
