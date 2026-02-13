@@ -37,6 +37,7 @@ layout: default
 <li><b>Carlos Olarte</b>, Université Sorbonne Paris Nord, France</li>
 <li><b>Peter Ölveczky</b>, University of Oslo, Norway</li>
 <li><b>Carlos Ramírez</b>, Pontificia Universidad Javeriana, Colombia</li>
+<li><b>Adrián Riesco</b>, Universidad Complutense de Madrid, Spain</li>
 <li><b>Christophe	Ringeissen</b>, INRIA, France</li>
 <li><b>Camilo Rocha</b>, Pontificia Universidad Javeriana, Colombia <b>[chair]</b></li>
 <li><b>Rubén Rubio</b>, Universidad Complutense de Madrid, Spain</li>
