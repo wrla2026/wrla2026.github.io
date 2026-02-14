@@ -12,6 +12,10 @@ menu:
   identifier: program
   url: /program.html
 
+- title: Tutorials
+  identifier: tutorials
+  url: /tutorials.html
+
 - title: Committees
   identifier: committee
   url: /committee.html
