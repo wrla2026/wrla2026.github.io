@@ -1,0 +1,20 @@
+Title:
+Automated Quantum Protocol Verification with Concurrent Dynamic Quantum Logic in Maude 
+
+While constructing practical quantum computers remains a challenge,
+applications of quantum communication and cryptography have made
+remarkable progress. Therefore, it is crucial to formally verify
+quantum protocols before they can be trusted in safety- and
+security-critical applications. Dynamic Quantum Logic (DQL), a quantum
+counterpart of Dynamic Logic, has been proposed to handle quantum
+effects such as unitary transformations and measurements in order to
+verify quantum protocols through manual proofs. However, DQL lacks
+both an automated approach to quantum protocol verification and a
+parallel operator for modeling concurrency among participants in
+quantum protocols. This talk presents our recent developments in
+automated quantum protocol verification with Concurrent Dynamic
+Quantum Logic (CDQL), an extension of DQL for handling communication
+and concurrent behaviors among participants in quantum
+protocols. Additionally, this talk shows how large interleavings
+arising from concurrency in CDQL can be handled effectively using a
+supporting tool implemented in Maude.

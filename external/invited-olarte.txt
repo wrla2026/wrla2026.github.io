@@ -1,0 +1,25 @@
+Strategic and Symbolic Methods for Real-Time Systems in Maude
+Joint work with Jaime Arias, Kyungmin Bae, Peter Csaba Ölveczky, Laure Petrucci and Fredrik Rømming.
+
+Rewriting logic is a powerful and expressive semantic framework for
+modeling distributed real-time systems. This talk presents our journey
+toward developing sound and complete symbolic analysis methods for
+such systems by integrating rewriting modulo SMT and Maude's strategy
+language.  We begin by introducing an encoding of networks of
+parametric timed automata, where symbolic "tick" rules capture all
+possible time advances using SMT variables. We then extend these
+techniques to parametric time Petri nets (PITPNs). However, the
+encoding of tick rules may result in non-termination of the
+analysis. Hence, we propose a folding procedure based on quantifier
+elimination that guarantees termination for NPTAVs and PITPNs whenever
+the corresponding state class graph is finite.  In addition to
+reachability analysis, parameter synthesis, and model checking, we
+support analysis under user-defined execution strategies. This yields
+a timed strategy language that enables the specification of execution
+scenarios and efficient time-sampling strategies that focus on
+"interesting" time points.  Finally, by combining symbolic techniques
+with strategies, we address the verification of real-time multi-agent
+systems using Strategic Timed CTL (STCTL). In this setting, we show
+how Maude's strategy language can capture the continuous semantics of
+STCTL, resulting in the first verifier that supports full STCTL with
+practical performance.

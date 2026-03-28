@@ -10,7 +10,7 @@ layout: default
 
 | Start    |  End    |  Author(s) | Title      |
 |:---------|:--------|:------|:------------|
-| 09:00    | 10:00    | Carlos Olarte |  (Invited talk) TBA |
+| 09:00    | 10:00    | Carlos Olarte | Strategic and Symbolic Methods for Real-Time Systems in Maude |
 | 10:00    | 10:30    | Coffee break | |
 | 10:30    | 11:00    | Kyungmin Bae, Santiago Escobar, Raúl López-Rueda, José Meseguer and Julia Sapiña | Generating Invariants by Deductive Model Checking |
 | 11:00    | 11:30    | Rafael Morales-Palacios, Rubén Rubio and Ignacio Fábregas | A Semantic Framework for Symbolic Execution in Maude |
@@ -27,7 +27,7 @@ layout: default
 
 | Start    |  End    |  Author(s) | Title      |
 |:---------|:--------|:------|:------------|
-9:00  |  10:00  |  Canh Minh Do  |   (Invited talk)  TBA |
+9:00  |  10:00  |  Canh Minh Do  |   Automated Quantum Protocol Verification with Concurrent Dynamic Quantum Logic in Maude |
 10:00  |  10:30  |  Coffee break  |  |
 10:30  |  11:00  |  Víctor García, Santiago Escobar, Catherine Meadows and José Meseguer  |  A Theory of Composable Lingos for Protocol |
 11:00  |  11:30  |  Pablo Arrighi, Marin Costes, Gilles Dowek and Luidnel Maignan  |  Space-time deterministic graph rewriting |
