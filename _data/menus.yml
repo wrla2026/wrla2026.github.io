@@ -12,6 +12,10 @@ menu:
   identifier: program
   url: /program.html
 
+- title: Invited Talks
+  identifier: invited
+  url: /invited.html
+
 - title: Tutorials
   identifier: tutorials
   url: /tutorials.html
