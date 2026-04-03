@@ -32,7 +32,7 @@ STCTL, resulting in the first verifier that supports full STCTL with
 practical performance.
 
 <h5 id="tutorial-author">Speaker: Carlos Olarte</h5>
-<h6 id="tutorial-authors">Joint work with Jaime Arias, Kyungmin Bae, Peter Csaba Ölveczky, Laure Petrucci and Fredrik Rømming</h6>
+<h6 id="tutorial-authors">Joint work with Jaime Arias, Kyungmin Bae, Peter Csaba Ölveczky, Wojciech Penczek, Laure Petrucci, Teofil Sidoruk, and Fredrik Rømming</h6>
 
 <hr>
 
