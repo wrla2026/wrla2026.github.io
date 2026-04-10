@@ -1,0 +1,205 @@
+\documentclass[a4paper]{llncs}
+\usepackage{longtable}
+\newcommand{\tocTitle}[2]{\protect\contentsline{title}{#1}{#2}}
+\newcommand{\tocAuthors}[1]{{\raggedright \leftskip 15pt \rightskip 2.55em\itshape #1\endgraf}}
+\newcommand{\tocSection}[1]{\subsection*{#1}}
+\pagestyle{plain}
+\pagenumbering{roman}
+\begin{document}
+\setcounter{page}{1}
+\pagestyle{empty}
+
+\noindent
+{\Large Camilo Rocha (Ed.) }
+
+\vspace{4cm}
+
+\noindent
+{\Huge\bf Rewriting Logic and\\ its Applications}
+
+\vspace{1cm}
+
+\noindent
+{\LARGE 16th International Workshop, {\sc WRLA 2026} \\[2ex]
+part of the European Joint Conferences on\\ Theory \& Practice of Software (ETAPS 2026)
+ \\[2ex]
+Turin, Italy, April 11th \& 12th, 2026.}
+
+\vspace{1cm}
+\begin{center}
+{\LARGE Informal Proceedings}
+\end{center}
+
+\vfill
+
+
+\cleardoublepage
+
+\pagestyle{plain}
+
+\section*{Preface}
+
+This volume contains the preliminary proceedings of the 16th
+International Workshop on Rewriting Logic and its Applications (WRLA
+2026).
+%
+Previous editions of the workshop were held in Asilomar (USA) 1996,
+Pont-\`a-Mousson (France) 1998, Kanazawa (Japan) 2000, Pisa (Italy)
+2002, Barcelona (Spain) 2004, Vienna (Austria) 2006, Budapest
+(Hungary) 2008, Paphos (Cyprus) 2010, Tallinn (Estonia) 2012, Grenoble
+(France) 2014, Eindhoven (Netherlands) 2016, Thessaloniki (Greece)
+2018, Dublin (Ireland) 2020, Munich (Germany) 2022, and Luxembourg
+(Luxembourg) 2024.
+
+Rewriting logic is a natural model of computation and an expressive
+semantic framework for concurrency, parallelism, communication, and
+interaction. It supports the specification of a wide range of systems
+and languages across diverse application domains and it also exhibits
+desirable properties as a metalogical framework for representing
+logics. Over the years, several languages based on rewriting logic
+have been designed and implemented. The aim of this workshop is to
+bring together researchers with a shared interest in rewriting logic
+and its applications, providing a forum to present recent work,
+discuss future research directions, and exchange ideas. 
+
+WRLA 2026 was held on April 11--12, 2026, in Turin, Italy, as a
+satellite event of the European Joint Conferences on Theory {\&}
+Practice of Software (ETAPS).
+%
+A total of 15 submissions were received, covering a wide range of
+topics related to rewriting logic and its applications. Each
+submission was reviewed by at least three program committee members
+or additional reviewers. After extensive discussion, the program
+committee selected 11 papers for presentation at the workshop.
+%
+A selection of the accepted papers will appear in the post-proceedings,
+to be published in the Springer LNCS series, following the tradition
+of previous editions of the workshop.
+
+Sincere appreciation is extended to all authors who submitted papers
+to the workshop, the invited speakers, and those who contributed
+tutorials. Equal thanks are due to the members of the program
+committee and the external reviewers for their careful work throughout
+the review process.
+%
+As in previous editions, the suggestions provided by the members of
+the WRLA steering committee were both valuable and greatly
+appreciated.
+%
+Finally, deep gratitude is expressed to the local organizers of ETAPS
+2026, whose efforts made this workshop possible.
+
+
+~\bigskip
+
+
+\noindent
+\begin{minipage}[t]{.4\textwidth}
+April, 2026
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{.4\textwidth}\flushright
+Camilo Rocha
+\end{minipage}
+
+\clearpage
+
+
+%% \section*{Table of Contents}
+%%   \tocTitle{Combining Parallel Graph Rewriting and Quotient Graphs}{1}
+%%   \tocAuthors{Thierry Boy de La Tour and Rachid Echahed}
+%%   \tocTitle{Connecting Constrained Constructor Patterns and Matching Logic}{16}
+%%   \tocAuthors{Xiaohong Chen, Dorel Lucanu and Grigore Roșu}
+%%   \tocTitle{Analysis of the Runtime Resource Provisioning of BPMN Processes using Maude}{33}
+%%   \tocAuthors{Francisco Dur\'an, Camilo Rocha and Gwen Sala\"un}
+%%   \tocTitle{Evaluation of Logic Programs with Built-Ins and Aggregation: A Calculus for Bag Relations}{49}
+%%   \tocAuthors{Matthew Francis-Landau, Tim Vieira and Jason Eisner}
+%%   \tocTitle{Well-Founded Induction via Term Refinement in CafeOBJ}{64}
+%%   \tocAuthors{Kokichi Futatsugi}
+%%   \tocTitle{A Rule-based System for Computation and Deduction in Mathematica}{79}
+%%   \tocAuthors{Mircea Marin, Besik Dundua and Temur Kutsia}
+%%   \tocTitle{Compositional Verification in Rewriting Logic}{94}
+%%   \tocAuthors{\'Oscar Mart\'{\i}n, Alberto Verdejo and Narciso Mart\'{\i}-Oliet}
+%%   \tocTitle{Variants in the Infinitary Unification Wonderland}{109}
+%%   \tocAuthors{Jos\'e Meseguer}
+%%   \tocTitle{Variant Satisfiability of Parameterized Strings}{124}
+%%   \tocAuthors{Jos\'e Meseguer}
+%%   \tocTitle{Inductive Reasoning with Equality Predicates, Contextual Rewriting and  Variant-Based Simplification}{139}
+%%   \tocAuthors{Jos\'e Meseguer and Stephen Skeirik}
+%%   \tocTitle{A Remark for the Use of a Path Ordering with an Algebra and a Howard-Style Interpretation of Lambda for Termination Proofs of Typed Rewrite Systems}{157}
+%%   \tocAuthors{Mitsuhiro Okada and Yuta Takahashi}
+%%   \tocTitle{Strategies, model checking and branching-time properties in Maude}{172}
+%%   \tocAuthors{Rub\'en Rubio, Narciso Mart\'{\i}-Oliet, Isabel Pita and Alberto Verdejo}
+%%   \tocTitle{Verification of the IBOS Browser Security Properties in Reachability Logic}{187}
+%%   \tocAuthors{Stephen Skeirik, Jos\'e Meseguer and Camilo Rocha}
+%%   \tocTitle{Automated Construction of Security Wrappers for Industry 4.0 Applications}{205}
+%%   \tocAuthors{Carolyn Talcott and Vivek Nigam}
+%%   \tocTitle{Maude-SE: a Tight Integration of Maude and SMT Solvers}{220}
+%%   \tocAuthors{Geunyeol Yu and Kyungmin Bae}
+
+\clearpage
+
+
+\section*{Program Committee}
+\noindent
+\begin{longtable}{p{0.35\textwidth}p{0.65\textwidth}}
+Erika Abraham & RWTH Aachen University\\
+Mar\'{\i}a Alpuente & Universitat Polit\`ecnica de Val\`encia\\
+Irina Mariuca Asavoae & Trusted Labs, Thales Group\\
+Kyungmin Bae & Pohang University of Science and Technology\\
+Clara Bertolissi & Universit\'e Aix-Marseille\\
+Artur Boronat & University of Leicester\\
+Roberto Bruni & Universit\`a di Pisa\\
+Francisco Dur\'an & University of M\'alaga\\
+Santiago Escobar & Universitat Polit\`ecnica de Val\`encia\\
+Maribel Fernandez & KCL\\
+Thomas Genet & IRISA - Rennes\\
+Ra\'ul Guti\'errez & Universitat Polit\`ecnica de Val\`encia\\
+Nao Hirokawa & JAIST\\
+Alexander Knapp & Universit\"at Augsburg\\
+Alberto Lluch Lafuente & Technical University of Denmark\\
+Dorel Lucanu & Alexandru Ioan Cuza University\\
+Narciso Mart\'{\i}-Oliet & Universidad Complutense de Madrid\\
+Aart Middeldorp & University of Innsbruck\\
+Cesar Munoz & NASA\\
+Vivek Nigam & fortiss GmbH\\
+Kazuhiro Ogata & JAIST\\
+Etienne Payet & LIM, Universit\'e de La R\'eunion\\
+Adrian Riesco & Universidad Complutense de Madrid\\
+Christophe Ringeissen & INRIA\\
+Camilo Rocha & Pontificia Universidad Javeriana Cali\\
+Grigore Roșu & University of Illinois at Urbana-Champaign\\
+Vlad Rusu & INRIA\\
+Ralf Sasse & ETH Zurich\\
+Traian Florin Serbanuta & University of Bucharest\\
+Carolyn Talcott & SRI  International\\
+\end{longtable}
+
+\clearpage
+
+
+\section*{Additional Reviewers}
+\begin{longtable}{l}
+\\
+\textbf{A} \\*
+\\
+Abd Alrahman, Yehia
+\\
+\textbf{K} \\*
+\\
+Kremer, Gereon
+\\
+\textbf{M} \\*
+\\
+Marshall, Andrew M.
+\\
+\textbf{V} \\*
+\\
+Van Oostrom, Vincent
+\\
+\textbf{W} \\*
+\\
+Winkler, Sarah
+\end{longtable}
+
+\end{document}
