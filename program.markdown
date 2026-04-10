@@ -10,6 +10,7 @@ layout: default
 
 | Start    |  End    |  Author(s) | Title      |
 |:---------|:--------|:------|:------------|
+| 08:45    |  09:00  |  Camilo Rocha  | Opening |
 | 09:00    | 10:00    | Carlos Olarte | Strategic and Symbolic Methods for Real-Time Systems in Maude |
 | 10:00    | 10:30    | Coffee break | |
 | 10:30    | 11:00    | Kyungmin Bae, Santiago Escobar, Raúl López-Rueda, José Meseguer and Julia Sapiña | Generating Invariants by Deductive Model Checking |
