@@ -17,3 +17,6 @@ The aim of WRLA is to bring together researchers with a common
 interest in rewriting and its applications, and to give them the
 opportunity to present their recent work, discuss future research
 directions, and exchange ideas.
+
+The pre-proceedings are now available for download <a
+href="preproceedings/preproceedings.pdf">here</a>.
