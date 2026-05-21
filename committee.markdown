@@ -23,6 +23,7 @@ layout: default
 <h3 id="program-committee">Program Committee</h3>
 <ul>
 <li><b>Kyungmin Bae</b>, Pohang University of Science and Technology (POSTECH), South Korea</li>
+<li><b>Can Minh Do</b>, JAIST, Japan</li>
 <li><b>Francisco Durán</b>, Universidad de Málaga, Spain</li>
 <li><b>Santiago Escobar</b>, Universitat Politècnica de València, Spain</li>
 <li><b>Nao Hirokawa</b>, JAIST, Japan</li>
